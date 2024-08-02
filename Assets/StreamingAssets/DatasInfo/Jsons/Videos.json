@@ -1,0 +1,15 @@
+{
+  //所有配置表地址及类型
+  "视频01": {
+    "Url": "ResourcesInfo/Videos/1.mp4"
+  },
+  "视频02": {
+    "Url": "ResourcesInfo/Videos/2.mp4"
+  },
+  "视频03": {
+    "Url": "ResourcesInfo/Videos/3.mp4"
+  },
+  "视频04": {
+    "Url": "ResourcesInfo/Videos/4.mp4"
+  }
+}

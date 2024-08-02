@@ -1,0 +1,5 @@
+panelName,isHideOther,needMask,prefebGoUrl
+Home_Panel,TRUE,FALSE,
+Datas_Panel,TRUE,FALSE,
+EventCenter_Panel,TRUE,FALSE,
+Video_Panel,TRUE,FALSE,

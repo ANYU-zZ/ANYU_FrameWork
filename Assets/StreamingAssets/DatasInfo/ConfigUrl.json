@@ -1,0 +1,21 @@
+{
+  //所有配置表地址及类型
+  "PanelDefines": {
+    "Url": "DatasInfo/Excels/UIDefineInfo.csv",
+    "DataType": "Class",
+    "Type": "PanelBaseExtend",
+    "ReadMe": "csv"
+  },
+  "DatasInfos": {
+    "Url": "DatasInfo/Excels/DatasInfo.csv",
+    "DataType": "Class",
+    "Type": "DataInfo",
+    "ReadMe": "csv"
+  },
+  "Videos": {
+    "Url": "DatasInfo/Jsons/Videos.json",
+    "DataType": "File",
+    "Type": "Video",
+    "ReadMe": "json"
+  }
+}
